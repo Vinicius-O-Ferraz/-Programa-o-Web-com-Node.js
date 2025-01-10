@@ -1,8 +1,10 @@
 # Programacao-Web-com-Node.js
 
+# Descrição
+
 Programação Web com Node.js: Completo, do Front-end ao Back-end", de Luiz Duarte, é um guia abrangente que conduz o leitor desde os fundamentos da internet e da web até a criação de interfaces web utilizando HTML, CSS e JavaScript. O livro dá ênfase especial ao desenvolvimento back-end com Node.js e ao uso do banco de dados não-relacional MongoDB, incluindo a construção de APIs RESTful. Com uma abordagem prática e didática, o autor oferece projetos completos, código-fonte e materiais de apoio online, facilitando o aprendizado para iniciantes que desejam ingressar no desenvolvimento web. 
 
-Sumário
+# Sumário
 
 * Fundamentos da internet e da web (HTTP, DNS, TLDs, etc.)
 * Criação de interfaces web (front-end) com HTML, CSS e JavaScript
